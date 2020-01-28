@@ -1,0 +1,6 @@
+b b b 2 2x+3y=5,4x+5y=9 x=1y=1 
+b c b 5 2x+8y=10,4x+9y=12 x=0/428571428571429y=1/14285714285714 
+h c b 5 2x+8y=10,4x+9y=12 x=0/428571428571429y=1/14285714285714 
+mohadese motidoost tehran 19 2x+4y=3,5x+2y=9 x=1/875y=-0/1875 
+zahra mdk teh 22 2x+3y=9,3x+4y=5  x=-21y=17 
+sara sarayi tabriz 23 2x+3y=9,4x+5y=6  x=-13/5y=12 
